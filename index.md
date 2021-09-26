@@ -45,4 +45,4 @@ My top 3 Star Wars movies are:
 -[] theme
 -[] additional functionality
 
-![cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fhow-we-found-coronavirus-in-a-cat-143697&psig=AOvVaw2Px5ZAu9n_B1z5E5dB08QI&ust=1632776731574000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD6y7rFnfMCFQAAAAAdAAAAABAF)
+![cat](images/cat.jpg)
