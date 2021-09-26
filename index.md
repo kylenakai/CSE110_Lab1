@@ -8,7 +8,7 @@
 My motto in life is:
 > Believe in Yourself
 
-I will push this with 'git push'.
+I will push this with `git push`.
 
 
 ## Contact 
@@ -45,4 +45,4 @@ My top 3 Star Wars movies are:
 -[] theme
 -[] additional functionality
 
-![cat]( https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F26392d05302e02f7bf4eb143bb84c8097d09144b%2F446_167_3683_2210%2Fmaster%2F3683.jpg%3Fwidth%3D1200%26height%3D1200%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26s%3D49ed3252c0b2ffb49cf8b508892e452d&imgrefurl=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2020%2Fsep%2F05%2Fwhat-cats-mean-by-miaow-japans-pet-guru-knows-just-what-your-feline-friend-wants&tbnid=BBEQz5BdOWu86M&vet=12ahUKEwj_pI7gv53zAhWMsp4KHSLKD3MQMygAegUIARDKAQ..i&docid=V4qL_jTRbB2FuM&w=1200&h=1200&itg=1&q=cat&ved=2ahUKEwj_pI7gv53zAhWMsp4KHSLKD3MQMygAegUIARDKAQ)
+![cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fhow-we-found-coronavirus-in-a-cat-143697&psig=AOvVaw2Px5ZAu9n_B1z5E5dB08QI&ust=1632776731574000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD6y7rFnfMCFQAAAAAdAAAAABAF)
