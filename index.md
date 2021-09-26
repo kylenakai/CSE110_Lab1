@@ -2,6 +2,8 @@
 
 ### User Page
 
+![cat](https://github.com/kylenakai/CSE110_Lab1/blob/Markdown/cat2.jpg)
+
 ## Intro
 **Hello**, my name is Kyle Nakai and I am a student at *UCSD* and I am majoring in ***Computer Science***.
 
