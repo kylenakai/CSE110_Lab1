@@ -45,4 +45,4 @@ My top 3 Star Wars movies are:
 -[] theme
 -[] additional functionality
 
-![cat](images/cat.jpg)
+![cat](cat.jpg)
