@@ -45,4 +45,6 @@ My top 3 Star Wars movies are:
 -[] theme
 -[] additional functionality
 
-![cat](https://github.com/kylenakai/CSE110_Lab1/blob/Markdown/cat2.jpg)
+## Cat
+
+![Cat Image](https://github.com/kylenakai/CSE110_Lab1/blob/Markdown/Cat.png)
