@@ -49,4 +49,4 @@ My top 3 Star Wars movies are:
 
 ## Cat
 
-![Cat Image](https://github.com/kylenakai/CSE110_Lab1/blob/main/CatP.png)
+![Cat Image](https://raw.githubusercontent.com/kylenakai/CSE110_Lab1/main/CatP.png)
